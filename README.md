@@ -1,4 +1,4 @@
-### Hi there, I'm [Balbir Singh!]([https://balbirsingh.live](https://github.com/bs-cse-iitb])
+### Hi there, I'm [Balbir Singh!]([https://github.com/bs-cse-iitb])
 
 <!--
 **bs-cse-iitb/bs-cse-iitb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
