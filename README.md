@@ -39,12 +39,6 @@ Here are some ideas to get you started:
 </p>
 <br />
   
-### Top Languages and Tools...
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bs-cse-iitb"/>
-  </a>
-</p
-<br />
+
   
 #### Thank You🙏🏼
