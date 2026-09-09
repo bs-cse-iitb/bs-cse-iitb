@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 
 
 <br/>
-<a href="https://in.linkedin.com/in/balbir-singh-thakur-801717209">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/thakur_palsra/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<a href="tel:+919418642868">Call +91 94186 42868</a> ·
+<a href="mailto:bsveer68@gmail.com">Email</a> ·
+<a href="https://www.instagram.com/thakur_knight/">Instagram</a> ·
+<a href="https://www.facebook.com/bsthakur8/">Facebook</a> ·
+<a href="https://www.linkedin.com/in/balbir-singh-thakur-801717209/">LinkedIn</a> ·
+<a href="https://wa.me/919418642868">WhatsApp</a> ·
+<a href="https://t.me/">Telegram</a>
 <br />
 
 
